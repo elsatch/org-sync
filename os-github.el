@@ -1,4 +1,4 @@
-;;; os-github.el --- Redmine backend for org-sync.
+;;; os-github.el --- Github backend for org-sync.
 
 ;; Copyright (C) 2012  Aurelien Aptel
 ;;
@@ -27,7 +27,7 @@
 ;; issues from a github tracker with an org-mode buffer.  Read
 ;; Org-sync documentation for more information about it.
 
-;; This backend supports basic bug synching along with tag creation.
+;; This backend supports basic bug syncing along with tag creation.
 ;; If you add or change the tags of an issue to something that doesn't
 ;; exists, it will be created.
 
